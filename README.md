@@ -1,7 +1,7 @@
 
 # Sahil E-commerce Sales Data Analysis
 
-![Image Alt]()
+![Image Alt](https://github.com/saahil06/Power-BI-Ecommerece_Sales_Analysis/blob/3a9084de6b5c141cc70474f33be82f469c03ad62/Screenshot%202025-01-22%20151948.png)
 
 
 [Dashboard link](https://app.powerbi.com/groups/me/reports/12bb6f85-5f6c-4cc5-a2f7-10775403b6b6/dfe362d1eb7a430e6d02?experience=power-bi)
