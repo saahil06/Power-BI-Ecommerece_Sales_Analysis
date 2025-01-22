@@ -1,6 +1,9 @@
 
 # Sahil E-commerce Sales Data Analysis
 
+[Dashboard link](https://app.powerbi.com/groups/me/reports/12bb6f85-5f6c-4cc5-a2f7-10775403b6b6/dfe362d1eb7a430e6d02?experience=power-bi)
+
+
 ## Project Overview
 This project focuses on analyzing sales data from an e-commerce business, "Sahil E-commerce," to gain actionable insights and solve key business challenges. The analysis was conducted using Power BI and Excel, leveraging tools such as Power Query for data transformation and various visualization techniques to present findings effectively.
 
@@ -29,7 +32,6 @@ The dataset contains information about:
 
 ### Data Visualizations
 - **Bar Graphs**: Identify top-performing products and categories.
-- **Line Charts**: Observe sales trends over time.
 - **Pie Charts**: Display revenue contribution by category.
 - **Cards**: Highlight metrics like Total Revenue, Top Customers, and Average Order Value.
 
@@ -59,21 +61,12 @@ The dataset contains information about:
 
 ## Key Findings and Insights
 ### Top Customers
-- The top 5 customers contribute 35% of total revenue. These customers can be targeted for loyalty programs or exclusive discounts.
-
-### Sales Trends
-- Sales peak during the holiday season (e.g., November and December).
-- Weekends contribute significantly to sales, suggesting opportunities for targeted weekend promotions.
+- The top 3 customers contribute 35% of total revenue. These customers can be targeted for loyalty programs or exclusive discounts.
 
 ### Product Performance
 - Certain product categories consistently outperform others, accounting for 60% of total revenue.
 - Underperforming products were identified, providing opportunities to optimize inventory.
 
-### Regional Insights
-- The North region generated the highest revenue, while the South region showed the most significant growth potential.
-
-### Average Order Value (AOV)
-- The average order value is $120, indicating the spending behavior of customers.
 
 ## Conclusions
 - The analysis highlights key customers, products, and regions driving the e-commerce business.
@@ -86,23 +79,7 @@ The dataset contains information about:
 - Integrate customer feedback data for sentiment analysis.
 - Develop automated alerts for KPIs deviating from expected values.
 
-## Instructions to Access the Dashboard
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/username/ecommerce-sales-analysis.git
-   ```
-2. Open the Power BI file (`sahil_ecommerce_dashboard.pbix`) to view the dashboard.
-3. Refer to the `Dataset` folder for the raw and cleaned data.
 
-## Repository Structure
-```
-├── Dataset
-│   ├── raw_sales_data.csv
-│   ├── cleaned_sales_data.xlsx
-├── Dashboard
-│   ├── sahil_ecommerce_dashboard.pbix
-├── README.md
-```
 
 ## Acknowledgments
 - **Sahil**: For leading the analysis and dashboard development.
